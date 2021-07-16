@@ -1,4 +1,4 @@
-# Deep Sequential Mosaicking
+# MICCAI2019 - Deep Sequential Mosaicking of Fetoscopic Videos
 
 ### Required softwares
 
